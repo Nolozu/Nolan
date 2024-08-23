@@ -15,6 +15,7 @@ C#
 I'm in school at Keuda Kerava learning how to code
 
 # Contact me
+Portfolio: https://nolozu.github.io/Portfolio/
 
 Gmail: nieminennolan@gmail.com
 
