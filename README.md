@@ -13,3 +13,9 @@ C#
 # Currently learning
 
 I'm in school at Keuda Kerava learning how to code
+
+# Contact me
+
+Gmail: nieminennolan@gmail.com
+
+Phonenumber: 0449824706
